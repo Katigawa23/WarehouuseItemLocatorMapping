@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\warehouuseitemlocatormapping\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|solutionrelative:warehouuseitemlocatormapping\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\warehouuseitemlocatormapping\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|solutionrelative:warehouuseitemlocatormapping\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\warehouuseitemlocatormapping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|solutionrelative:warehouuseitemlocatormapping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|c:\\users\\user\\source\\repos\\warehouuseitemlocatormapping\\warehouuseitemlocatormapping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C76AC1B-CD23-4F3A-850B-571DD0A19034}|WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping.csproj|solutionrelative:warehouuseitemlocatormapping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 379,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form2.cs",
+              "RelativeDocumentMoniker": "WarehouuseItemLocatorMapping\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form2.cs [Design]",
+              "RelativeToolTip": "WarehouuseItemLocatorMapping\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:56:22.335Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form2.cs",
+              "RelativeDocumentMoniker": "WarehouuseItemLocatorMapping\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form2.cs",
+              "RelativeToolTip": "WarehouuseItemLocatorMapping\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:07:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form1.cs",
+              "RelativeDocumentMoniker": "WarehouuseItemLocatorMapping\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form1.cs",
+              "RelativeToolTip": "WarehouuseItemLocatorMapping\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:36:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form1.cs",
+              "RelativeDocumentMoniker": "WarehouuseItemLocatorMapping\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WarehouuseItemLocatorMapping\\WarehouuseItemLocatorMapping\\Form1.cs [Design]",
+              "RelativeToolTip": "WarehouuseItemLocatorMapping\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:36:12.234Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
