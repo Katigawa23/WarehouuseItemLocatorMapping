@@ -1,0 +1,2 @@
+# WarehouuseItemLocatorMapping
+WindowForm/WarehouuseItemLocatorMapping
